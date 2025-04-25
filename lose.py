@@ -1,1 +1,2 @@
 print("hekod")
+primt[]
