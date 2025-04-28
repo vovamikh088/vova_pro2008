@@ -1,3 +1,0 @@
-print("hekod")
-primt[]
-print()
